@@ -2,7 +2,9 @@
 #include <iostream>
 #include <string>
 #include <time.h>
-using namespace std; //  гоглг
+
+using namespace std;
+
 namespace SpaceExample2 {
     class Progression {
     public:

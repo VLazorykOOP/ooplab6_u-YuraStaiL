@@ -2,14 +2,10 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+
 using namespace std;
+
 namespace SpaceExample3 {
-    // MultipleiInherance.cpp 
-// Ієрархія типів складається з сутностей: 
-// машина, пасажирський транспорт і автобус.
-//
-
-
     class File {
     protected:
         std::string filename;
